@@ -1,4 +1,4 @@
-# adding API keys
+# Add API keys to gitignore
 api_keys.py
 
 # Byte-compiled / optimized / DLL files
