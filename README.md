@@ -52,7 +52,18 @@ Describe task notes
 Create Maps:
 * Create a map that displays a point for every city in the city_data_df DataFrame as shown in the following image. The size of the point should be the humidity in each city.
 
+__city data map example__
+
+![city_data_df](https://static.bc-edx.com/data/dl-1-2/m6/lms/img/humidity_map.png)
+
+* Create a for hotel_df
+
+__hotel map example__
+
+![hotel_df](https://static.bc-edx.com/data/dl-1-2/m6/lms/img/hotel_map.png)
+
 include png or links to png from readme to give examples
+
 explain changes I made & why: color / metrics
 
 ## Resources
