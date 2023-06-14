@@ -14,8 +14,11 @@ This challenge is broken down into two parts, WeatherPY then VacationPY.
 
 We will be working with Jupyter notebooks, using APIs from various sites to achieve this.
 ### Part-1: WeatherPY
-Describe task notes
+For this portion of the challenge, we must create a Python script to visualize the weather of over 500 cities of varying distances from the equator. We will be using the citipy Python library and the OpenWeatherMap API links to external websites. We will use WeatherPy.ipynb from the starter code, in a Jupyter notebook. The starter code acts as a guide through the process, providing only what the output _should_ come to be. __Note:__ as mentioned later in the instructions, the city data we generate is based on random coordinates and different query times, so our outputs will not be an exact match to the provided starter notebook. 
+
 #### Requirement-1
+To meet first requirement, we must use the information acquired from OpenWeatherMap API to retrieve weather data from the cities list generated in the starter code.
+
 Create charts:
 * Latitude vs. Temperature
 
@@ -68,11 +71,11 @@ explain changes I made & why: color / metrics
 
 ## Resources
 ### Bootcamp References
-Module 6 instructions
+Module 6 Instructions
 
-starter code
-* WeatherPy
-* VacationPY
+starter_code
+* WeatherPy.ipynb
+* VacationPY.ipynb
 
 Example Data:
 
@@ -91,7 +94,7 @@ output_data _(original folder)_
 ### External References
 (where possible will provide link to website)
 * citypy library
-* openweathermap documentation & API
+* OpenWeatherMap documentation & API
 * geoapify documentation & API
 * pandas documentation
 * matplotlib documentation
