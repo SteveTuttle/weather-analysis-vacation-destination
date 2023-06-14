@@ -11,6 +11,7 @@ UNC DataBootCamp API module challenge
 
 ## Deliverables
 This challenge is broken down into two parts, WeatherPY then VacationPY.
+
 We will be working with Jupyter notebooks, using APIs from various sites to achieve this.
 ### Part-1: WeatherPY
 Describe task notes
@@ -43,7 +44,8 @@ Create charts:
 * Southern Hemisphere: Wind Speed vs. Latitude
 
 __linear regression chart example__
-!(https://static.bc-edx.com/data/dl-1-2/m6/lms/img/linear-regression-plot.png)
+
+ ![lin-regress-plot](https://static.bc-edx.com/data/dl-1-2/m6/lms/img/linear-regression-plot.png)
 
 ### Part-2: VacationPY
 Describe task notes
