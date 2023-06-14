@@ -68,18 +68,20 @@ explain changes I made & why: color / metrics
 
 ## Resources
 ### Bootcamp References
-* Module 6 instructions
-* starter code
-  * WeatherPy
-  * VacationPY
+Module 6 instructions
+
+starter code
+* WeatherPy
+* VacationPY
 
 Example Data:
-* output_data (original file)
-  * cities.csv
-  * Fig1.png
-  * Fig2.png
-  * Fig3.png
-  * Fig4.png
+
+output_data _(original folder)_
+* cities.csv
+* Fig1.png
+* Fig2.png
+* Fig3.png
+* Fig4.png
 
 ***Special Thanks:***
 * Jamie Miller
