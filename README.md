@@ -97,13 +97,14 @@ output_data _(original folder)_
 
 ### External References
 _(where possible will provide link to website)_
-* citypy library
+* [citypy library](https://github.com/wingchen/citipy)
 * OpenWeatherMap documentation & API
 * geoapify documentation & API
-* pandas documentation
-* matplotlib documentation
+* [pandas documentation](https://pandas.pydata.org/docs/reference/general_functions.html)
+* [matplotlib documentation](https://matplotlib.org/stable/index.html)
 * [hvplot documentation](https://hvplot.holoviz.org/reference/geopandas/points.html)
-* scipy.stats documentation
-* ArcGIS geographic coordinate system documentation
+* [scipy.stats documentation](https://docs.scipy.org/doc/scipy/reference/stats.html)
+* [ArcGIS geographic coordinate system documentation](https://desktop.arcgis.com/en/arcmap/10.3/guide-books/map-projections/about-geographic-coordinate-systems.htm)
+
 
 This Challenge provided many opportunities to try and test new ideas.
