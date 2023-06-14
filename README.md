@@ -42,6 +42,8 @@ Create charts:
 
 * Southern Hemisphere: Wind Speed vs. Latitude
 
+__linear regression chart example__
+!(https://static.bc-edx.com/data/dl-1-2/m6/lms/img/linear-regression-plot.png)
 
 ### Part-2: VacationPY
 Describe task notes
@@ -64,6 +66,7 @@ Example Data:
   * Fig2.png
   * Fig3.png
   * Fig4.png
+
 ***Special Thanks:***
 * Jamie Miller
 * Mounika Mamindla
