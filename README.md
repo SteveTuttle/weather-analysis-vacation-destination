@@ -102,7 +102,7 @@ _(where possible will provide link to website)_
 * geoapify documentation & API
 * pandas documentation
 * matplotlib documentation
-* [hvplot documentation] (https://hvplot.holoviz.org/reference/geopandas/points.html)
+* [hvplot documentation](https://hvplot.holoviz.org/reference/geopandas/points.html)
 * scipy.stats documentation
 * ArcGIS geographic coordinate system documentation
 
