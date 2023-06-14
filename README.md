@@ -72,6 +72,7 @@ explain changes I made & why: color / metrics
 * starter code
   * WeatherPy
   * VacationPY
+
 Example Data:
 * output_data (original file)
   * cities.csv
