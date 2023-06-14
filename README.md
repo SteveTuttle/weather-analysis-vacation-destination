@@ -10,7 +10,7 @@ UNC DataBootCamp API module challenge
 ***from the UNC Bootcamp instructions for this challenge***
 
 ## Deliverables
-This challenge is broken down into two parts, WeatherPY then VacationPY.
+This challenge is broken down into two parts, WeatherPY then VacationPY. I added my intials to the starter code version of both these files.
 
 We will be working with Jupyter notebooks, using APIs from various sites to achieve this.
 
@@ -102,7 +102,7 @@ _(where possible will provide link to website)_
 * geoapify documentation & API
 * pandas documentation
 * matplotlib documentation
-* hvplot documentation
+* [hvplot documentation] (https://hvplot.holoviz.org/reference/geopandas/points.html)
 * scipy.stats documentation
 * ArcGIS geographic coordinate system documentation
 
