@@ -1,4 +1,4 @@
-# python-api-challenge
+# weather-analysis-vacation-destination
 UNC DataBootCamp API module challenge
 
 ## Challenge Description
